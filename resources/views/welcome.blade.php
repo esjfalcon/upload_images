@@ -105,6 +105,7 @@
                 <div class="links">
                     <a href="/select_images">Upload Images</a>
                     <a href="/show">Show my images</a>
+                    <a href="/newdemande">New demande</a>
                 </div>
             </div>
         </div>
